@@ -1,16 +1,5 @@
 # info802_flutter_app
 
-A new Flutter project.
+Initialement j'étais parti pour réaliser ce projet en Python, en utilisant Spyne pour la partie Soap, django-rest-framework pour la partie interaction avec l'api de MangoPay, ainsi que django-graphql pour la partie GraphQL, le tout tournant sur un client Django. Je me suis finalement tourné vers une application mobile, réalisée côté client en Flutter et interagissant en dart avec les différentes APIS, car je pourrais être amener à travailler dessus en stage et que je m'y intéresse.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
